@@ -27,7 +27,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
 # Start combined domains
-
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 http-intake.logs.us5.datadoghq.com
 0.0.0.0 api.segment.io
 0.0.0.0 default.exp-tas.com
 0.0.0.0 ms.applvn.com
