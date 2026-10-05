@@ -28,6 +28,14 @@ ff02::3 ip6-allhosts
 
 # Start combined domains
 
+0.0.0.0 api.segment.io
+0.0.0.0 default.exp-tas.com
+0.0.0.0 ms.applvn.com
+0.0.0.0 lcprd1.samsungcloudsolution.net
+0.0.0.0 otel-mobile.doordash.com
+0.0.0.0 ms.applovin.com
+0.0.0.0 scribe.logs.roku.com
+0.0.0.0 iguazu.doordash.com
 0.0.0.0 0--foodwarez.da.ru
 0.0.0.0 0-02.net
 0.0.0.0 0.0.0.0
